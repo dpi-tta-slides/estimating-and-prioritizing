@@ -1,76 +1,89 @@
 ---
 marp: true
-title: Marp CLI example
-description: Hosting Marp slide deck on the web
-theme: uncover
+title: Estimating and Prioritizing
+description: This lesson explores techniques to estimate and prioritize work.
 transition: fade
 paginate: true
 _paginate: false
 ---
 
-![bg opacity](./assets/gradient.jpg)
-
-# <!--fit--> Marp CLI example
-
-Hosting Marp slide deck on the web
-
-https://github.com/yhatt/marp-cli-example
-
-<style scoped>a { color: #36c; }</style>
-
-<!-- This is presenter note. You can write down notes through HTML comment. -->
+# Estimating and Prioritizing
 
 ---
 
-![Marp bg 60%](https://raw.githubusercontent.com/marp-team/marp/master/marp.png)
+# Effort vs Impact
+
+![](./assets/action-priority-matrix.webp)
 
 ---
 
-<!-- _backgroundColor: "#123" -->
-<!-- _color: "#fff" -->
+# Estimating Work
+https://www.pointingpoker.com/
 
-##### <!--fit--> [Marp CLI](https://github.com/marp-team/marp-cli) + [GitHub Pages](https://github.com/pages) | [Netlify](https://www.netlify.com/) | [Vercel](https://vercel.com/)
+- 1 Point: a straightforward task that requires minimal implementation and integration effort. (half workday)
 
-##### <!--fit--> 👉 The easiest way to host<br />your Marp deck on the web
+- 3 Points: involves some additional functionality, but is still relatively simple to implement. (1-2 workdays)
 
----
+- 5 Points: involves moderate effort. (3 workdays)
 
-![bg right 60%](https://icongr.am/octicons/mark-github.svg)
+- 8 Points: requires a significant amount of effort. (~5 workdays)
 
-## **[GitHub Pages](https://github.com/pages)**
-
-#### Ready to write & host your deck!
-
-[![Use this as template h:1.5em](https://img.shields.io/badge/-Use%20this%20as%20template-brightgreen?style=for-the-badge&logo=github)](https://github.com/yhatt/marp-cli-example/generate)
+- 13 Points: a more challenging and time-consuming task. (~10 workdays)
 
 ---
 
-![bg right 60%](https://icongr.am/simple/netlify.svg?colored)
+# Pointing Poker
 
-## **[Netlify](https://www.netlify.com/)**
-
-#### Ready to write & host your deck!
-
-[![Deploy to Netlify h:1.5em](./assets/netlify-deploy-button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yhatt/marp-cli-example)
+As a user, I want to be able to search for products by their name, so that I can quickly find the items I'm interested in.
 
 ---
 
-![bg right 60%](https://icongr.am/simple/zeit.svg)
+# Pointing Poker
 
-## **[Vercel](https://vercel.com/)**
+As a user, I want to be able to register with my email and password, so that I can create an account and access the application.
 
-#### Ready to write & host your deck!
+---
+# Pointing Poker
 
-[![Deploy to Vercel h:1.5em](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yhatt/marp-cli-example)
+As a user, I want to receive email notifications whenever my order status changes, so that I can stay updated on the progress of my purchases.
+
+---
+# Pointing Poker
+
+As a user, I want to be able to upload a profile picture, so that I can personalize my profile.
+
+---
+# Pointing Poker
+
+As a user, I want to be able to create and manage multiple shopping lists, so that I can categorize my desired items for different occasions or stores.
+
 
 ---
 
-### <!--fit--> :ok_hand:
+# Takeaways?
+
+
+---
+# Project Management Triangle
+
+![](./assets/project-triangle.png)
+
+[source](https://en.wikipedia.org/wiki/Project_management_triangle)
+
+- It's much easier to decide on a budget/timeline, then pare down an initial feature set based on these constraints.
+
+
 
 ---
 
-![bg 40% opacity blur](https://avatars1.githubusercontent.com/u/3993388?v=4)
+# Further Reading
 
-### Created by Yuki Hattori ([@yhatt](https://github.com/yhatt))
+- [A guide to producing software estimates](https://www.atlassian.com/agile/estimation)
 
-https://github.com/yhatt/marp-cli-example
+- [A counterpoint: Why software estimation is a losing game](https://rclayton.silvrback.com/software-estimation-is-a-losing-game)
+
+I tend to agree with the latter ^
+
+- [Building software with David Heinemeier Hansson](https://medium.com/computers-are-hard/computers-are-hard-building-software-with-david-heinemeier-hansson-c9025cdf225e)
+
+- [Flaws in Scrum and Agile](https://pandastrike.com/posts/20150304-agile/)
