@@ -9,6 +9,16 @@ _paginate: false
 
 # Estimating and Prioritizing
 
+
+---
+# Project Management Triangle
+
+![](./assets/project-triangle.png)
+
+[source](https://en.wikipedia.org/wiki/Project_management_triangle)
+
+- It's much easier to decide on a budget/timeline, then pare down an initial feature set based on these constraints.
+
 ---
 
 # Effort vs Impact
@@ -61,17 +71,6 @@ As a user, I want to be able to create and manage multiple shopping lists, so th
 ---
 
 # Takeaways?
-
-
----
-# Project Management Triangle
-
-![](./assets/project-triangle.png)
-
-[source](https://en.wikipedia.org/wiki/Project_management_triangle)
-
-- It's much easier to decide on a budget/timeline, then pare down an initial feature set based on these constraints.
-
 
 
 ---
