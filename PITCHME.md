@@ -75,6 +75,15 @@ As a user, I want to be able to create and manage multiple shopping lists, so th
 
 ---
 
+# Start building a backlog for your project
+- I recommend creating GitHub [Issues](https://docs.github.com/issues) and a [Project](https://docs.github.com/en/issues/planning-and-tracking-with-projects) to keep a backlog, prioritize and track progress. 
+
+---
+
+![](./assets/github-project.png)
+
+---
+
 # Further Reading
 
 - [A guide to producing software estimates](https://www.atlassian.com/agile/estimation)
