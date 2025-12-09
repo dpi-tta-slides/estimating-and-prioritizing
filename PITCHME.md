@@ -9,7 +9,6 @@ _paginate: false
 
 # Estimating and Prioritizing
 
-
 ---
 # Chronic Underestimation
 
@@ -42,16 +41,13 @@ _paginate: false
 ---
 
 # Estimating Work
+
 https://www.pointingpoker.com/
 
 - 1 Point: a straightforward task that requires minimal implementation and integration effort. (half workday)
-
 - 3 Points: involves some additional functionality, but is still relatively simple to implement. (1-2 workdays)
-
 - 5 Points: involves moderate effort. (3 workdays)
-
 - 8 Points: requires a significant amount of effort. (~5 workdays)
-
 - 13 Points: a more challenging and time-consuming task. (~10 workdays)
 
 ---
@@ -89,6 +85,15 @@ As a user, I want to be able to create and manage multiple shopping lists, so th
 
 ---
 
+# Capstone Estimation
+
+- List 3–5 features of your capstone project
+- Rewrite them as user stories
+- Estimate them using pointing
+- Prioritize them using the Impact/Effort matrix
+
+---
+
 # Start building a backlog for your project
 - I recommend creating GitHub [Issues](https://docs.github.com/issues) and a [Project](https://docs.github.com/en/issues/planning-and-tracking-with-projects) to keep a backlog, prioritize and track progress. 
 
@@ -101,11 +106,9 @@ As a user, I want to be able to create and manage multiple shopping lists, so th
 # Further Reading
 
 - [A guide to producing software estimates](https://www.atlassian.com/agile/estimation)
-
 - [A counterpoint: Why software estimation is a losing game](https://rclayton.silvrback.com/software-estimation-is-a-losing-game)
 
 I tend to agree with the latter ^
 
 - [Building software with David Heinemeier Hansson](https://medium.com/computers-are-hard/computers-are-hard-building-software-with-david-heinemeier-hansson-c9025cdf225e)
-
 - [Flaws in Scrum and Agile](https://pandastrike.com/posts/20150304-agile/)
